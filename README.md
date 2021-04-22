@@ -55,7 +55,8 @@ notebooks folder:
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
-    ![Web_image](https://github.com/telayat/Disaster-Response-Project/blob/main/Pics/Web_3.PNG)
+    ![Web_image1](https://github.com/telayat/Disaster-Response-Project/blob/main/Pics/Web_2.PNG)
+    ![Web_image2](https://github.com/telayat/Disaster-Response-Project/blob/main/Pics/Web_3.PNG)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
