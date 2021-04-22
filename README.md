@@ -21,14 +21,17 @@ In this project, I am demonestrating how an end-to-end machine learning project 
 ## File Descriptions<a name="files"></a>
 
 data folder:
+
     -disaster_messages.csv: this is the disaster messages.
     -disaster_categories.csv: this is the disatser categories file.
     -process_data.py: this is the python file for the ETL pipeline
 
 models folder:
+
     -train_classifier.py: this is python file for the ML modeling pipeline.
     
 app folder:
+
     -run.py: this is python file to run the web app.
 
 
