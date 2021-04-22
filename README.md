@@ -34,6 +34,11 @@ app folder:
 
     -run.py: this is python file to run the web app.
 
+notebooks folder:
+
+    -ETL Pipeline Preparation.ipynb: ETL pipeline code in notebook format.
+    -ML Pipeline Preparation.ipynb: Machine Learning pipeline code in notebook format.
+
 
 ## How to Use<a name="how_to_use"></a>
 
