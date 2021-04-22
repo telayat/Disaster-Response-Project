@@ -54,7 +54,7 @@ notebooks folder:
 2. Run the following command in the app's directory to run your web app (you need to adjust DB name, table name and the model pkl file according to the parameters used in the previous two steps).
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. Go to http://0.0.0.0:3001/  
     ![Web_image1](https://github.com/telayat/Disaster-Response-Project/blob/main/Pics/Web_4.PNG)
     ![Web_image2](https://github.com/telayat/Disaster-Response-Project/blob/main/Pics/Web_3.PNG)
 
